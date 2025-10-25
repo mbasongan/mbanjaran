@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:BE:31:BC&stream=477170&extension=m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2300000
+#EXT-X-STREAM-INF:BANDWIDTH=2200000
 http://shopshop.cyou:80/play/live.php?mac=00:1A:79:05:A5:FE&stream=54860&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2200000
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:BE:31:BC&stream=477170&extension=m3u8
+
 
