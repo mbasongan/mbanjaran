@@ -2,11 +2,11 @@
 #EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2000000
 http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=312945&extension=m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000
+#EXT-X-STREAM-INF:BANDWIDTH=2000000
 http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=637871&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=665700&extension=m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:2B:3B:24&stream=1687261&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2200000
 http://staqzhxc.qastertv.xyz:80/live/F7HUBM1T/ZAZSABSG/30532.m3u8
 
 
