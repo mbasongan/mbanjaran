@@ -1,1 +1,4 @@
+#XTM3U
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:2B:3B:24&stream=1432222&extension=m3u8
