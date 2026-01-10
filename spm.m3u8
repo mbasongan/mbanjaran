@@ -5,9 +5,7 @@ http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=312945&exte
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=637871&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://front-main.eagle-4k.me:80/live/226260263679518/u5e5768bu8/28590.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://front-main.eagle-4k.me:80/live/226260263679518/u5e5768bu8/4852.m3u8
+http://technologycloud.eu:80/play/live.php?mac=00:1A:79:2B:3B:24&stream=1687261&extension=m3u8
 
 
 
