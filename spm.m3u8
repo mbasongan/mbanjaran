@@ -6,7 +6,8 @@ http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=312945&exte
 http://filex.tv:8080/live/uk007/000920/293284.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=637871&extension=m3u8
-
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://fhh54d.vidacristiana.info:80/live/Andr2212bravo/zySVrGcVF4/313240.m3u8
 
 
 
