@@ -1,6 +1,10 @@
 #EXTM3U
-#EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=2200000
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXTINF:1,
+http://iptv.kilas7.com:80/kaukia/asdfrewq/4
 
 
