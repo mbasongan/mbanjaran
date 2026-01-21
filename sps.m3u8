@@ -1,10 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXTINF:1,
-http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=302372&extension=ts
-
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://global4k.info:8080/play/live.php?mac=00:1A:79:C4:2D:F3&stream=302372&extension=m3u8
 
