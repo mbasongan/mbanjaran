@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://filex.tv:8080/live/uk007/000920/302240.m3u8
+http://filex.me:8080/live/atifrehman/000671/501248.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/1165857.m3u8
 
