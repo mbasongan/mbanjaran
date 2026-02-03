@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://mytv-extra.com:88/live/1827214806/9371309264/3061.m3u8
+http://line.linktotv.eu:80/play/live.php?mac=00:1A:79:B7:15:D1&stream=1434091&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://vipgerretger.top:8080/live/VIP0161699114482001/41699114482549/135434.m3u8
+http://mytv-extra.com:88/live/1827214806/9371309264/3061.m3u8
 
 
 
