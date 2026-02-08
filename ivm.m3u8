@@ -4,4 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
 http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34327.ts
