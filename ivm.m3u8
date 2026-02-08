@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:2
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-INDEPENDENT-SEGMENTS
 http://vipketseyket.top:8080/live/VIP017741743173529373/aacb05f76c36/34327.m3u8
