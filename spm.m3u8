@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://front-main.eagle-4k.me:80/live/rmt8r91bac/tsleey7v5g/281499.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:75:03:6B&stream=1836185&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://eagle2024.xyz:80/live/2mu5jzpzsb/6ka5bi5ch7/303402.m3u8
