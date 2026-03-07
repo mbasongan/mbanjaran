@@ -3,7 +3,8 @@
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://filex.me:8080/live/uk007/000920/302311.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://dragon1977.com:80/play/live.php?mac=00:1A:79:81:F8:6D&stream=704416&extension=m3u8
+http://dragon1977.com:80/live/047306b75f/b5a06cc482d6/704416.m3u8
+
 
 
 
