@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://planettvweb.com:8091/live/GiovaniT/ABet7904d/20329.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://myxpanel.pro:80/live/Martin/Martin/152319.m3u8
+
