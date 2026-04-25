@@ -1,12 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-TARGETDURATION:1
-#EXT-X-I-FRAMES-ONLY
-#EXT-X-DISCONTINUITY-SEQUENCE:2
-#EXTINF:1,
-http://tv-premium-pro.com:80/wezqqszfr2/i7481xvrdf/276918
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/979
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=2300000
+http://tv-premium-pro.com:80/live/wezqqszfr2/i7481xvrdf/276918.m3u8
 
 
 
