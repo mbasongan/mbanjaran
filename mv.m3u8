@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=373304&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2300000
 http://opplextv.cyou:8080/live/nasir6160/nasir/66213.m3u8
 
