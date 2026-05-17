@@ -5,5 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2300000
-https://ogietv.biz.id:443/live/aqin/aqin168/1313.m3u8
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/4.m3u8
