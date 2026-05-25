@@ -5,4 +5,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=1800000
+http://ogietv.biz.id:80/live/aqin/aqin168/1325.m3u8
 http://opplextv.cyou:8080/live/nasir6160/nasir/350972.m3u8
