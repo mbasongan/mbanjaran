@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-ALLOW-CACHE:YES
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://ogietv.biz.id:80/live/aqin/aqin168/1367.m3u8
