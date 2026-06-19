@@ -5,5 +5,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/32.m3u8
+http://185.160.192.64:80/live/mangin15/85784/89662.m3u8
 
