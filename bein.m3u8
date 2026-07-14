@@ -1,8 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=1800000
-http://technologycloud.eu:80/live/premium/premium1/507541.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1800000
-http://line.ss4k.top:80/live/iQisg6po4q/4Pg9YbP5ts/786687.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1600000
+http://kanwat1.xyz:8080/live/80986533788/5662111245/325810.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1800000
 http://ogietv.biz.id:80/live/aqin/aqin168/11923.m3u8
