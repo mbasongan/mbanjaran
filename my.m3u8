@@ -6,6 +6,5 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:1,
-http://iptv.kilas7.com:80/kaukia/asdfrewq/32
-#http://servx.pro:80/live/chadi8838/998488848/355557.ts
+http://servx.pro:80/live/chadi8838/998488848/355557.ts
 #http://tv.cloudcdn.me:80/live.ts?channelId=93777&uid=4166&deviceMac=00:1A:79:F3:9F:F5
