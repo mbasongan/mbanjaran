@@ -5,5 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-https://ogietv.biz.id:443/live/aqin/aqin168/1313.m3u8
-#http://link.zozotv.xyz:8080/live/QS3315/K717976/116.ts
+http://157.15.187.3:25092/hls/42/42.m3u8
+#https://ogietv.biz.id:443/live/aqin/aqin168/1313.m3u8
+
