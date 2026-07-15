@@ -6,3 +6,4 @@
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://servx.pro:80/live/chadi8838/998488848/355482.m3u8
+#http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=901386&extension=m3u8
