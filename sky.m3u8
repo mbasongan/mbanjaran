@@ -5,8 +5,8 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=1900000
-http://premiumorg11.com:80/live/damien56/65903/243799.m3u8
-#http://kanwat1.xyz:8080/live/80986533788/5662111245/362253.m3u8
+#http://premiumorg11.com:80/live/damien56/65903/243799.m3u8
+http://kanwat1.xyz:8080/live/80986533788/5662111245/362253.m3u8
 
 
 
