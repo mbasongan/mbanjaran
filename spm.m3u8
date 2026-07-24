@@ -1,8 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://line.ss4k.top:80/live/iQisg6po4q/4Pg9YbP5ts/842345.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=646966&extension=m3u8
