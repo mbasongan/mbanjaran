@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:1
+#EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://opplextv.cyou:8080/live/Ahsaan003/shahfaisal/350997.m3u8
