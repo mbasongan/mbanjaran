@@ -6,4 +6,5 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://sansatplus.net:88/live/APCHjgSZHGrwGlJ/iIOVnldQ1cw17fY/693855.ts
+http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=1806548&extension=ts
+#http://sansatplus.net:88/live/APCHjgSZHGrwGlJ/iIOVnldQ1cw17fY/693855.ts
