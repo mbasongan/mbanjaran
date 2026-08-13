@@ -6,7 +6,8 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:e9:57&stream=441217&extension=ts
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373304&extension=ts
+#http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:83:e9:57&stream=441217&extension=ts
 #http://line.ss4k.top:80/live/iQisg6po4q/4Pg9YbP5ts/648248.ts
 
 
