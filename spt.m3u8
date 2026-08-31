@@ -5,5 +5,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:B3:50:CD&stream=1282750&extension=m3u8
-#https://s.rocketdns.info:443/monstercable/Dq6jjknxCr/843
+http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=1282765&extension=m3u8
+
