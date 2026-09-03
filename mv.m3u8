@@ -6,9 +6,8 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://185.80.197.55:80/play/live.php?mac=A0:BB:3E:04:A4:C5&stream=1112131&extension=ts
-#http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373304&extension=ts
-
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=373304&extension=ts
+#http://185.80.197.55:80/play/live.php?mac=A0:BB:3E:04:A4:C5&stream=1112131&extension=ts
 
 
 
