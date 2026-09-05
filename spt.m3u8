@@ -5,5 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=1282765&extension=m3u8
+http://12876-ottawa.cdn-o2.me:80/live/980f46ceee/616fcdaef4f6/891270.m3u8
+
 
