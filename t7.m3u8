@@ -5,5 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://v3tv.live/play/live.php?mac=00:1A:79:D0:30:8F&stream=192207&extension=m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(IxjIn_OmCI6zoCdZqkQL2sty5JzLJsfwn1HrDxelN8Jy3xZ0tWbSfs9A9u5bkpDvE6fOBNiilKGxxzlPg1HXIYGOFobsXh7PCQrsPKJOapEkJugByrWsZpr1A7fvpifq)/dm/3/x8qckyq/d/live-480.m3u8
+#http://v3tv.live/play/live.php?mac=00:1A:79:D0:30:8F&stream=192207&extension=m3u8
 #http://filex.me:8080/live/3114654477/5787654467/302311.m3u8
