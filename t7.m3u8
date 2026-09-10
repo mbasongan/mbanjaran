@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-https://live.eu-north-1a.cf.dmcdn.net/sec2(RP3HLYaCxO1M1m6_ilNh_tYQsNX1uAayiNpD-Lmi4jgCraS1CqiuT6SpNzFxc-FcrkvRoiyO9yAnDn2AjT_31bfM62iqjwJQR6r_8JGq2zwwgb124LS0qKcjFocOmwuq)/dm/3/x8qckyq/d/live-480.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(Gpjo1OBx4ta9ckCduQFDsoBatJCB0ossnNP0O6XTGZJDd8x8SBGbf0MHb1kqBEJysKtRvsp9QPy7P1O9qTUWDR29XFdRaKEBULAmoqJKjF1BQOUvrqSdBzuk569sEmqD)/dm/3/x8qckyq/d/live-480.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://v3tv.live/play/live.php?mac=00:1A:79:D0:30:8F&stream=192207&extension=m3u8
-#http://filex.me:8080/live/3114654477/5787654467/302311.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://filex.me:8080/live/3114654477/5787654467/302311.m3u8
