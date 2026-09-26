@@ -5,7 +5,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://31.43.191.125:8080/live/vip6821768502490/6c17bae55394/34342.m3u8
+http://74.91.26.218:82/live/vlcl.m3u8
 
 
 
