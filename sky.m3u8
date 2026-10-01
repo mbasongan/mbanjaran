@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:2
-#EXT-X-STREAM-INF:BANDWIDTH=1200000
-http://xtremeott.site:80/live/2E3LJPJ/WNSMMKF/76680.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1100000
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=177689&extension=m3u8
 
 
 
