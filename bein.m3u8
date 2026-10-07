@@ -5,5 +5,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=798837&extension=m3u8
-#http://line.godofiptv.com:80/play/live.php?mac=A0:BB:3E:02:F1:78&stream=1660399&extension=m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=941425&extension=m3u8
+#http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=798837&extension=m3u8
+
