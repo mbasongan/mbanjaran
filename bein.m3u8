@@ -1,10 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
+#EXT-X-VERSION:2
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=941425&extension=m3u8
-#http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=798837&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2100000
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=798837&extension=m3u8
 
