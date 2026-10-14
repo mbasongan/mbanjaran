@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1920x1080
 http://xtremeott.site:80/live/2E3LJPJ/WNSMMKF/1052448.m3u8
-#http://31.43.191.125:8080/live/restream/restream/34342.m3u8
+http://31.43.191.125:8080/live/restream/restream/34342.m3u8
 
 
