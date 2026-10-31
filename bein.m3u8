@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2100000
-http://megatv5074.com:80/live/63EV73W6WL4R1XU/RoRSlXpt26/56544.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=798837&extension=m3u8
+#http://megatv5074.com:80/live/63EV73W6WL4R1XU/RoRSlXpt26/56544.m3u8
+
 
