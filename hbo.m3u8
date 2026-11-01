@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2496000
-http://jadaebest-tv.com:80/live/Oscarovalle9/p9Th6REY2u/195503.m3u8
-
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://jadaebest-tv.com:80/Oscarovalle9/p9Th6REY2u/195503
