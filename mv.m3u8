@@ -1,7 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:1,
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2320000
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BF:DA:47&stream=373304&extension=m3u8
 
 
