@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2120000
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=798834&extension=m3u8
-
+#EXT-X-STREAM-INF:BANDWIDTH=2020000
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=941425&extension=m3u8
 
 
