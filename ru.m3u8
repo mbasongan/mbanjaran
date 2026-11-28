@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2120000
-http://z79ip.afcon.fan:80/live/shref-elbeshbehy2/qkWR9OAEYo/410129.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2020000
+#EXT-X-STREAM-INF:BANDWIDTH=2050000
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=1031885&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2020000
+http://z79ip.afcon.fan:80/live/shref-elbeshbehy2/qkWR9OAEYo/410129.m3u8
 
 
